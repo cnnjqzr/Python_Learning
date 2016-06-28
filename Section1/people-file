@@ -1,0 +1,13 @@
+dwyane
+name=>'Dwyane Wade'
+age=>34
+team=>'Mia'
+role=>'sg'
+endrec.
+lebron
+name=>'Lebron James'
+age=>31
+team=>'Cle'
+role=>'sf'
+endrec.
+enddb.
